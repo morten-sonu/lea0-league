@@ -21,9 +21,9 @@ var gameExtraBallMax = 5; //maximum extra balls drop
 var exitMessage = 'ARE YOU SURE YOU\nWANT TO QUIT THE GAME?'; //quit game message
 
 //Social share, [SCORE] will replace with game score
-var shareEnable = true; //toggle share
-var shareTitle = 'Highscore on Balance Ball is [SCORE]';//social share score title
-var shareMessage = '[SCORE] is mine new highscore on Balance Ball! Try it now!'; //social share score message
+var shareEnable = false; //toggle share
+var shareTitle = 'Highscore on Lea0 League is [SCORE]';//social share score title
+var shareMessage = '[SCORE] is mine new highscore on Lea0 League! Try it now!'; //social share score message
 
 /*!
  *
